@@ -1,0 +1,5 @@
+print("Calculemos el perimetro de un rectángulo")
+longitud = float(input("Ingrese la longitud del rectángulo: "))
+ancho = float(input("Ingrese el ancho del rectángulo: "))
+perimetro = 2 * (longitud + ancho)
+print("El perimetro del rectángulo es:", perimetro)
